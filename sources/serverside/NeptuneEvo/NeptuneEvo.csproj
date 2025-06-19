@@ -91,7 +91,7 @@
   <PropertyGroup> 
     <ServerGarbageCollection>false</ServerGarbageCollection> 
     <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection> 
-    <BaseOutputPath>D:\Softwares\RAGEMP\server-files\dotnet\resources</BaseOutputPath> 
+    <BaseOutputPath>D:\Softwares\RAGEMP\server-files\dotnet\resources\NeptuneEvo\bin</BaseOutputPath> 
   </PropertyGroup> 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'"> 
     <Optimize>false</Optimize> 

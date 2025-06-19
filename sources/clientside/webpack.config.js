@@ -28,7 +28,7 @@ module.exports = (env, argv) => {
         },
         output: {
             //path: path.join(__dirname, "public"),
-            path: path.join(__dirname, "./../../client_packages"),
+            path: path.join(__dirname, "../../client_packages"),
             filename: OUTPUT_FILE,
             library: LIBRARY_NAME,
             libraryTarget: 'umd',

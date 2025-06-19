@@ -24,7 +24,7 @@ module.exports = {
         },
     },
     output: {
-        path: path.resolve(__dirname, "./../../client_packages/interface"),
+        path: path.resolve(__dirname, "../../client_packages/interface"),
 		filename: `build/bundle.js`,
         libraryTarget: "umd",
     },

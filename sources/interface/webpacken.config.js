@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const mode = process.env.NODE_ENV || 'development';
 const prod = mode === 'production';
 
-const urlPath = `https://cdn.ragemp.pro/`
+const urlPath = `https://ragemp.zoki.site/`
 
 module.exports = {
     entry: {
@@ -25,7 +25,7 @@ module.exports = {
     },
     output: {
         //path: path.resolve(__dirname, 'public'),
-        path: path.resolve(__dirname, "./../../client_packages/interface"),
+        path: path.resolve(__dirname, "../../client_packages/interface"),
 		filename: `builden/bundle.js`,
         libraryTarget: "umd",
     },

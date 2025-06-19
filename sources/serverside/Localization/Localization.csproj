@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <Nullable>enable</Nullable>
-        <BaseOutputPath>D:\Softwares\RAGEMP\server-files\dotnet\resources</BaseOutputPath>
+        <BaseOutputPath>D:\Softwares\RAGEMP\server-files\dotnet\resources\Localization\bin</BaseOutputPath>
     </PropertyGroup>
 
 </Project>

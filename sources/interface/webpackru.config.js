@@ -25,7 +25,7 @@ module.exports = {
     },
     output: {
         //path: path.resolve(__dirname, 'public'),
-        path: path.resolve(__dirname, "./../../client_packages/interface"),
+        path: path.resolve(__dirname, "../../client_packages/interface"),
 		filename: `buildru/bundle.js`,
         libraryTarget: "umd",
     },
