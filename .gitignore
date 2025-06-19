@@ -2,14 +2,17 @@
 bin
 obj
 
-ragemp-server.exe
+backups
 dotnet
 
-BugTrap-x64.dll
-linux_x64.tar.gz
-client_packages/.listcache
 node_modules
+
+client_packages/.listcache
 client_packages/interface
 client_packages/main.js
+
 package-lock.json
+ragemp-server.exe
+BugTrap-x64.dll
+linux_x64.tar.gz
 

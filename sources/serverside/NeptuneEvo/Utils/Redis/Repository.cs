@@ -23,7 +23,7 @@ namespace NeptuneEvo.Utils.Redis
             {
                 var configurationOptions = new ConfigurationOptions
                 {
-                    EndPoints = { "127.0.0.1:6379" },
+                    EndPoints = { "127.127.126.61:6379" },
                     Password = ""
                 };
                 RedisInstance = ConnectionMultiplexer.Connect(configurationOptions);
