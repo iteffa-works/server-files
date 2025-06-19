@@ -1,0 +1,8 @@
+ragemp-server.exe
+dotnet
+bin
+BugTrap-x64.dll
+linux_x64.tar.gz
+client_packages/.listcache
+node_modules
+client_packages/interface
